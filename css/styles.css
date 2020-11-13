@@ -10164,3 +10164,20 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+.row {
+  justify-content: center;
+}
+
+.contact-information-container {
+  align-items: center;
+  /* background-color: red; */
+  display: flex;
+  flex-wrap: nowrap;
+  left: 30%;
+  max-width: 100%;
+}
+
+.push-div-center {
+  color: white;
+}
